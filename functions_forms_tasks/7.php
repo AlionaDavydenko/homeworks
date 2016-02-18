@@ -4,7 +4,7 @@
 <meta charset="utf-8"/>
 </head>
 <body>
-<form method="get" action="9.php">
+<form method="get" action="7.php">
 <u><i>Пользователь:</i></u><br>
 <input id="name" name="Пользователь" placeholder ="Введите ваше имя"><br>
 <u><i>Комментарий:</i></u><br>
